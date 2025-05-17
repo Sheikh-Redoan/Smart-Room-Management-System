@@ -1,4 +1,4 @@
-# 🏨✨ **RoomEase** - Smart Room Management System ✨🏨  
+h R# 🏨✨ **RoomEase** - Smart Room Management System ✨🏨  
 
 ![RoomEase Banner](Room-Management-System.png)  
 *"Effortless room bookings at your fingertips!"*  
@@ -115,7 +115,7 @@ graph TD
     A[Beautiful UI] -->|Axios Calls| B[Spring Controllers]
     B --> C[Service Layer]
     C --> D[JPA Repositories]
-    D --> E[H2 Database]
+    D --> E[Database]
     E --> C
     C --> B
     B --> A
@@ -152,4 +152,4 @@ Give ⭐ to show your love! 🚀
 
 [![Star on GitHub](https://img.shields.io/github/stars/yourusername/roomease.svg?style=social)](https://github.com/yourusername/roomease)  
 
-*Built with ❤️ by [Your Name]*
+*Built with ❤️ by Sheikh Redoan Ahmed*
